@@ -1,3 +1,6 @@
+# Copyright (c) Patrick Huck
+# released under MIT License
+
 #!/bin/bash
 
 workdir=$PWD
